@@ -1,5 +1,5 @@
 User-agent: *
-allow:
+Allow: /.well-known/akamai/akamai-challenge/
 
 User-agent: Googlebot
 Disallow: /
